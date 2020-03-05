@@ -4,7 +4,7 @@ A Generative Adversarial Model (GAN) trained on CIFAR-10 dataset across differen
 
 ### Learning Rate = 0.001
 
-![Learning Rate = 0.001](./assets/model-1-3.PNG)
+![Learning Rate = 0.001](./assets/model-1-2.PNG)
 
 ### Learning Rate = 0.0005
 
